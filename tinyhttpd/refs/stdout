@@ -1,0 +1,2 @@
+<dec f='include/stdio.h' l='169' type='struct _IO_FILE *'/>
+<doc f='include/stdio.h' l='169'>/* Standard output stream.  */</doc>

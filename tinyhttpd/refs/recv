@@ -1,0 +1,10 @@
+<dec f='include/x86_64-linux-gnu/sys/socket.h' l='156' type='ssize_t recv(int __fd, void * __buf, size_t __n, int __flags)'/>
+<use f='codebrowser/httpd.c' l='283' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='316' u='c' c='get_line'/>
+<use f='codebrowser/httpd.c' l='322' u='c' c='get_line'/>
+<use f='codebrowser/httpd.c' l='325' u='c' c='get_line'/>
+<doc f='include/x86_64-linux-gnu/sys/socket.h' l='151'>/* Read N bytes into BUF from socket FD.
+   Returns the number read or -1 for errors.
+
+   This function is a cancellation point and therefore not marked with
+   __THROW.  */</doc>

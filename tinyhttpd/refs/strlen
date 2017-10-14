@@ -1,0 +1,30 @@
+<dec f='include/string.h' l='399' type='unsigned long strlen(const char * __s)'/>
+<use f='codebrowser/httpd.c' l='108' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='167' u='c' c='cat'/>
+<use f='codebrowser/httpd.c' l='181' u='c' c='cannot_execute'/>
+<use f='codebrowser/httpd.c' l='183' u='c' c='cannot_execute'/>
+<use f='codebrowser/httpd.c' l='185' u='c' c='cannot_execute'/>
+<use f='codebrowser/httpd.c' l='187' u='c' c='cannot_execute'/>
+<use f='codebrowser/httpd.c' l='241' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='351' u='c' c='headers'/>
+<use f='codebrowser/httpd.c' l='353' u='c' c='headers'/>
+<use f='codebrowser/httpd.c' l='355' u='c' c='headers'/>
+<use f='codebrowser/httpd.c' l='357' u='c' c='headers'/>
+<use f='codebrowser/httpd.c' l='368' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='370' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='372' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='374' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='376' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='378' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='380' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='382' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='384' u='c' c='not_found'/>
+<use f='codebrowser/httpd.c' l='459' u='c' c='unimplemented'/>
+<use f='codebrowser/httpd.c' l='461' u='c' c='unimplemented'/>
+<use f='codebrowser/httpd.c' l='463' u='c' c='unimplemented'/>
+<use f='codebrowser/httpd.c' l='465' u='c' c='unimplemented'/>
+<use f='codebrowser/httpd.c' l='467' u='c' c='unimplemented'/>
+<use f='codebrowser/httpd.c' l='469' u='c' c='unimplemented'/>
+<use f='codebrowser/httpd.c' l='471' u='c' c='unimplemented'/>
+<use f='codebrowser/httpd.c' l='473' u='c' c='unimplemented'/>
+<doc f='include/string.h' l='398'>/* Return the length of S.  */</doc>

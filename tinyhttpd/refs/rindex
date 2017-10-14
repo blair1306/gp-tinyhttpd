@@ -1,0 +1,2 @@
+<dec f='include/strings.h' l='104' type='char * rindex(const char * __s, int __c)'/>
+<dec f='include/string.h' l='517' type='char * rindex(const char * __s, int __c)'/>

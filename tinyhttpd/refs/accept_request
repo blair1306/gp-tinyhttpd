@@ -1,0 +1,5 @@
+<dec f='codebrowser/httpd.c' l='34' type='void * accept_request(void * )'/>
+<def f='codebrowser/httpd.c' l='52' ll='131' type='void * accept_request(void * tclient)'/>
+<use f='codebrowser/httpd.c' l='498' u='r' c='main'/>
+<doc f='codebrowser/httpd.c' l='33'>//void accept_request(int);</doc>
+<doc f='codebrowser/httpd.c' l='51'>/**********************************************************************/</doc>

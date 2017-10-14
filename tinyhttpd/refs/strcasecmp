@@ -1,0 +1,12 @@
+<dec f='include/strings.h' l='116' type='int strcasecmp(const char * __s1, const char * __s2)'/>
+<dec f='include/string.h' l='534' type='int strcasecmp(const char * __s1, const char * __s2)'/>
+<use f='codebrowser/httpd.c' l='75' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='75' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='81' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='94' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='221' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='230' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='268' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='281' u='c' c='execute_cgi'/>
+<doc f='include/strings.h' l='115'>/* Compare S1 and S2, ignoring case.  */</doc>
+<doc f='include/string.h' l='533'>/* Compare S1 and S2, ignoring case.  */</doc>

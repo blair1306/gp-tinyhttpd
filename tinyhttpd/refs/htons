@@ -1,0 +1,2 @@
+<dec f='include/netinet/in.h' l='379' type='uint16_t htons(uint16_t __hostshort)'/>
+<use f='codebrowser/httpd.c' l='433' u='c' c='startup'/>

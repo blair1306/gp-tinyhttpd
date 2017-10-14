@@ -1,0 +1,2 @@
+<dec f='include/pthread.h' l='1127' type='int pthread_key_delete(pthread_key_t __key)'/>
+<doc f='include/pthread.h' l='1126'>/* Destroy KEY.  */</doc>

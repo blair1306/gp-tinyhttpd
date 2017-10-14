@@ -1,0 +1,4 @@
+<dec f='include/strings.h' l='47' type='void bcopy(const void * __src, void * __dest, size_t __n)'/>
+<dec f='include/string.h' l='455' type='void bcopy(const void * __src, void * __dest, size_t __n)'/>
+<doc f='include/strings.h' l='46'>/* Copy N bytes of SRC to DEST (like memmove, but args reversed).  */</doc>
+<doc f='include/string.h' l='454'>/* Copy N bytes of SRC to DEST (like memmove, but args reversed).  */</doc>

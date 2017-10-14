@@ -1,0 +1,6 @@
+<dec f='include/string.h' l='144' type='int strcmp(const char * __s1, const char * __s2)'/>
+<use f='codebrowser/httpd.c' l='111' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='222' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='227' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='401' u='c' c='serve_file'/>
+<doc f='include/string.h' l='143'>/* Compare S1 and S2.  */</doc>

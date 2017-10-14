@@ -1,0 +1,6 @@
+<dec f='include/stdlib.h' l='543' type='void exit(int __status)'/>
+<use f='codebrowser/httpd.c' l='198' u='c' c='error_die'/>
+<use f='codebrowser/httpd.c' l='277' u='c' c='execute_cgi'/>
+<doc f='include/stdlib.h' l='540'>/* Call all functions registered with `atexit&apos; and `on_exit&apos;,
+   in the reverse of the order in which they were registered,
+   perform stdio cleanup, and terminate program execution with STATUS.  */</doc>

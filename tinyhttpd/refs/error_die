@@ -1,0 +1,8 @@
+<dec f='codebrowser/httpd.c' l='38' type='void error_die(const char * )'/>
+<def f='codebrowser/httpd.c' l='195' ll='199' type='void error_die(const char * sc)'/>
+<use f='codebrowser/httpd.c' l='430' u='c' c='startup'/>
+<use f='codebrowser/httpd.c' l='436' u='c' c='startup'/>
+<use f='codebrowser/httpd.c' l='441' u='c' c='startup'/>
+<use f='codebrowser/httpd.c' l='445' u='c' c='startup'/>
+<use f='codebrowser/httpd.c' l='496' u='c' c='main'/>
+<doc f='codebrowser/httpd.c' l='194'>/**********************************************************************/</doc>

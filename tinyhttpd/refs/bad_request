@@ -1,0 +1,4 @@
+<dec f='codebrowser/httpd.c' l='35' type='void bad_request(int )'/>
+<def f='codebrowser/httpd.c' l='137' ll='151' type='void bad_request(int client)'/>
+<use f='codebrowser/httpd.c' l='235' u='c' c='execute_cgi'/>
+<doc f='codebrowser/httpd.c' l='136'>/**********************************************************************/</doc>

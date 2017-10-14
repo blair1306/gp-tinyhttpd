@@ -1,0 +1,4 @@
+<dec f='codebrowser/httpd.c' l='44' type='int startup(u_short * )'/>
+<def f='codebrowser/httpd.c' l='423' ll='447' type='int startup(u_short * port)'/>
+<use f='codebrowser/httpd.c' l='487' u='c' c='main'/>
+<doc f='codebrowser/httpd.c' l='422'>/**********************************************************************/</doc>

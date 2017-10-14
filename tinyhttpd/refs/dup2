@@ -1,0 +1,4 @@
+<dec f='include/unistd.h' l='534' type='int dup2(int __fd, int __fd2)'/>
+<use f='codebrowser/httpd.c' l='262' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='263' u='c' c='execute_cgi'/>
+<doc f='include/unistd.h' l='533'>/* Duplicate FD to FD2, closing FD2 and making it open on the same file.  */</doc>

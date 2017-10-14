@@ -1,0 +1,5 @@
+<dec f='codebrowser/httpd.c' l='42' type='void not_found(int )'/>
+<use f='codebrowser/httpd.c' l='113' u='c' c='accept_request'/>
+<def f='codebrowser/httpd.c' l='363' ll='385' type='void not_found(int client)'/>
+<use f='codebrowser/httpd.c' l='406' u='c' c='serve_file'/>
+<doc f='codebrowser/httpd.c' l='362'>/**********************************************************************/</doc>

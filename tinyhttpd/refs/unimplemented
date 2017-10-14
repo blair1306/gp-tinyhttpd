@@ -1,0 +1,4 @@
+<dec f='codebrowser/httpd.c' l='45' type='void unimplemented(int )'/>
+<use f='codebrowser/httpd.c' l='77' u='c' c='accept_request'/>
+<def f='codebrowser/httpd.c' l='454' ll='474' type='void unimplemented(int client)'/>
+<doc f='codebrowser/httpd.c' l='453'>/**********************************************************************/</doc>

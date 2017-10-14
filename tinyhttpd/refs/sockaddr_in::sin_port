@@ -1,0 +1,5 @@
+<dec f='include/netinet/in.h' l='240' type='in_port_t'/>
+<use f='codebrowser/httpd.c' l='433' u='w' c='startup'/>
+<use f='codebrowser/httpd.c' l='442' u='r' c='startup'/>
+<offset>16</offset>
+<doc f='include/netinet/in.h' l='240'>/* Port number.  */</doc>

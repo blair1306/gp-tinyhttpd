@@ -1,0 +1,9 @@
+<dec f='codebrowser/httpd.c' l='40' type='int get_line(int , char * , int )'/>
+<use f='codebrowser/httpd.c' l='66' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='112' u='c' c='accept_request'/>
+<use f='codebrowser/httpd.c' l='223' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='226' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='232' u='c' c='execute_cgi'/>
+<def f='codebrowser/httpd.c' l='308' ll='338' type='int get_line(int sock, char * buf, int size)'/>
+<use f='codebrowser/httpd.c' l='402' u='c' c='serve_file'/>
+<doc f='codebrowser/httpd.c' l='307'>/**********************************************************************/</doc>

@@ -1,0 +1,6 @@
+<dec f='include/stdio.h' l='237' type='int fclose(FILE * __stream)'/>
+<use f='codebrowser/httpd.c' l='412' u='c' c='serve_file'/>
+<doc f='include/stdio.h' l='233'>/* Close STREAM.
+
+   This function is a possible cancellation point and therefore not
+   marked with __THROW.  */</doc>

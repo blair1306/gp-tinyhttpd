@@ -1,0 +1,6 @@
+<dec f='codebrowser/httpd.c' l='37' type='void cannot_execute(int )'/>
+<def f='codebrowser/httpd.c' l='176' ll='188' type='void cannot_execute(int client)'/>
+<use f='codebrowser/httpd.c' l='244' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='248' u='c' c='execute_cgi'/>
+<use f='codebrowser/httpd.c' l='253' u='c' c='execute_cgi'/>
+<doc f='codebrowser/httpd.c' l='175'>/**********************************************************************/</doc>

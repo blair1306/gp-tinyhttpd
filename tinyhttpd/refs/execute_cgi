@@ -1,0 +1,4 @@
+<dec f='codebrowser/httpd.c' l='39' type='void execute_cgi(int , const char * , const char * , const char * )'/>
+<use f='codebrowser/httpd.c' l='126' u='c' c='accept_request'/>
+<def f='codebrowser/httpd.c' l='207' ll='293' type='void execute_cgi(int client, const char * path, const char * method, const char * query_string)'/>
+<doc f='codebrowser/httpd.c' l='206'>/**********************************************************************/</doc>

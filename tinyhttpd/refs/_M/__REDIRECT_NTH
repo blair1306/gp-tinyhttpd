@@ -1,0 +1,5 @@
+<dec f='include/x86_64-linux-gnu/sys/cdefs.h' l='185'/>
+<use f='include/stdio.h' l='448' u='c'/>
+<use f='include/stdio.h' l='502' u='c'/>
+<use f='include/string.h' l='426' u='a'/>
+<use f='include/string.h' l='427' u='c'/>

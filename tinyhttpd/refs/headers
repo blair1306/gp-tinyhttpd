@@ -1,0 +1,4 @@
+<dec f='codebrowser/httpd.c' l='41' type='void headers(int , const char * )'/>
+<def f='codebrowser/httpd.c' l='345' ll='358' type='void headers(int client, const char * filename)'/>
+<use f='codebrowser/httpd.c' l='409' u='c' c='serve_file'/>
+<doc f='codebrowser/httpd.c' l='344'>/**********************************************************************/</doc>
